@@ -13,3 +13,5 @@
 - 大概是下午fork的io，隔了三个小时才能用github主页，以及提交修改  
 - fork的主页是[TeXt](https://tianqi.name/jekyll-TeXt-theme/)  
 - 是个中国人写的，很赞啊，我本身是在[Jekyll Theme](http://jekyllthemes.org/)上面选取的，国人水平很赞  
+
+![IP.img] (http://image.tupian114.com/20090923/10341050.jpg "叶子图片")
