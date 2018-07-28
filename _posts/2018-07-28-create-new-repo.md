@@ -1,7 +1,7 @@
 创建自己的首页
 ====
 
-就用来学习github pages，加上学习###MarkDown### 
+就用来学习github pages，加上学习  ### MarkDown ###  
 1. 之前尝试自己用github-pages创建首页  
     1. 用google和知乎进行查询，学习了一下
     2. 有两种解决方案 ：  
