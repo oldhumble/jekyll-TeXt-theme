@@ -3,7 +3,7 @@
 
 就用来学习github pages，加上学习###MarkDown### 
 1. 之前尝试自己用github-pages创建首页  
-    1. 用google和知乎进行查询，学习了一下
+  1. 用google和知乎进行查询，学习了一下
     2. 有两种解决方案 ：  
         1. 自己利用github pages的教程一步步做  
         2. 把别人的github pages fork过来，然后在基础上修改  
