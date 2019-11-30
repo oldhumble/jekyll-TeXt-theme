@@ -11,10 +11,10 @@ key: page-about
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.png)
 
-Hi,There!
-2019-now Focus on Data Mining and Recommendation System
-2010-2015 University of Science and Technology of China,Master of Communication System
-2006-2010 University of Science and Technology of China,Bachlor of Engineering
+### Hi,There!
+2019-now Focus on Data Mining and Recommendation System  
+2010-2015 University of Science and Technology of China,Master of Communication System  
+2006-2010 University of Science and Technology of China,Bachlor of Engineering  
 
 ```javascript
 (() => console.log('Hello, World!'))();
