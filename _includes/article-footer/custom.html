@@ -1,10 +1,10 @@
 <!-- this will show at every article content's bottom -->
 
-<p><strong>你的支持是我的动力。你可以通过以下方式支持我：</strong></p>
+<!-- <p><strong>你的支持是我的动力。你可以通过以下方式支持我：</strong></p> -->
 {% assign _root_path = page.path | slice: 0, 5 %}
 {% assign _lang = page.lang | slice: 0, 2 %}
 <!-- {%- if _root_path == '_docs' -%} -->
-  <!-- {%- if _lang == 'zh' -%}
+  {%- if _lang == 'zh' -%}
     <div class="article__content my-3">
       <hr />
       <p><strong>你的支持是我的动力。你可以通过以下方式支持我：</strong></p>
@@ -23,11 +23,11 @@
         <tbody><tr>
           <td>
               <img style="max-width: 150px; max-height: 150px" src="/tip_wechat.jpg" alt="微信支付二维码" />
-              微信 
+            
            </td>
           <td>
               <img style="max-width: 150px; max-height: 150px" src="/tip_alipay.jpg" alt="支付宝二维码" />
-              支付宝
+              
         </td>
         </tr></tbody>
       </table>
@@ -39,6 +39,6 @@
           <img src="https://img.shields.io/badge/yujiancao-paypal-blue" alt="Tip Me via PayPal" /></a>       
       </div>
     </div>
-  {%- endif -%} -->
+  {%- endif -%}
 <!-- {%- endif -%} -->
 <!-- end custom article footer snippet -->
