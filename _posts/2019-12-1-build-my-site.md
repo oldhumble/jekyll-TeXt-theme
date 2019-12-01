@@ -6,6 +6,8 @@ comments: true
 categories: [blog, journal]
 tags: [journal]
 ---
+New Beginning Articles
+===
 
 It has been years since I set up my first github pages.  
 Never used after that. Not quite like geeks.  
