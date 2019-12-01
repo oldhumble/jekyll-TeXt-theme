@@ -11,3 +11,22 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
+
+  - titles:
+      en:   ML
+      zh:   机器学习
+      zh-hans:  机器学习
+      zh-Hant:  機器學習
+    url:  /machinelearning.html
+  - titles:
+      en: RecommenderSystem
+      zh: 推荐系统
+      zh-hans: 推荐系统
+      zh-Hant: 推介系統
+    url: /recommendersystem.html
+
+  - title: GitHub
+    url:  https://github.com/oldhumble
+
+
+  
