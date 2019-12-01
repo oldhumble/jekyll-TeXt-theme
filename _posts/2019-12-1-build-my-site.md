@@ -2,7 +2,7 @@
 layout: article
 title: Document - MY STARTUP ON 
 mathjax: true
-comment :true
+comments: true
 categories: [blog, journal]
 tags: [journal]
 ---
