@@ -12,7 +12,15 @@
 {%- include snippets/get-nav-url.html -%}
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ __return }}">
 <!-- begin favicon -->
-{%- assign __path = '/assets/apple-touch-icon.png' -%}
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<!-- {%- assign __path = '/assets/apple-touch-icon.png' -%}
 {%- include snippets/prepend-baseurl.html -%}
 <link rel="apple-touch-icon" sizes="180x180" href="{{ __return }}">
 
@@ -40,7 +48,7 @@
 
 {%- assign __path = '/assets/browserconfig.xml' -%}
 {%- include snippets/prepend-baseurl.html -%}
-<meta name="msapplication-config" content="{{ __return }}">
+<meta name="msapplication-config" content="{{ __return }}"> -->
 
 <meta name="theme-color" content="#ffffff">
 <!-- end favicon -->
