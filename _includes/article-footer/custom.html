@@ -1,7 +1,7 @@
 <!-- this will show at every article content's bottom -->
 {% assign _root_path = page.path | slice: 0, 5 %}
 {% assign _lang = page.lang | slice: 0, 2 %}
-{%- if _root_path == '_docs' -%}
+<!-- {%- if _root_path == '_docs' -%} -->
   {%- if _lang == 'zh' -%}
     <div class="article__content my-3">
       <hr />
@@ -22,8 +22,8 @@
           <th>支付宝</th>
         </tr></thead>
         <tbody><tr>
-          <td><img style="max-widht: 150px; max-height: 150px" src="/docs/assets/images/tip_wechat.jpg" alt="微信支付二维码" /></td>
-          <td><img style="max-widht: 150px; max-height: 150px" src="/docs/assets/images/tip_alipay.jpg" alt="支付宝二维码" /></td>
+          <td><img style="max-width: 150px; max-height: 150px" src="/tip_wechat.jpg" alt="微信支付二维码" /></td>
+          <td><img style="max-width: 150px; max-height: 150px" src="/tip_alipay.jpg" alt="支付宝二维码" /></td>
         </tr></tbody>
       </table>
     </div>
@@ -40,5 +40,5 @@
         <img src="https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social" alt="Star This Project" /></a></div> -->
     </div>
   {%- endif -%}
-{%- endif -%}
+<!-- {%- endif -%} -->
 <!-- end custom article footer snippet -->
