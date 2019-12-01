@@ -3,6 +3,7 @@ layout: article
 title: Document - MY STARTUP ON 
 mathjax: true
 comments: true
+key: beginningarticle20191201
 categories: [blog, journal]
 tags: [journal]
 ---
