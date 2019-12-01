@@ -1,3 +1,12 @@
+---
+layout: article
+title: Document - MY STARTUP ON 
+key: "{{ page.url }}"
+categories: [blog, journal]
+tags: [journal]
+lang: zh
+---
+
 创建自己的首页
 ====
 
