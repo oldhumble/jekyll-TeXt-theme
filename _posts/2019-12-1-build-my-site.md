@@ -7,7 +7,6 @@ key: "{{ page.url }}"
 categories: [blog, journal]
 tags: [journal]
 footer: true
-# show_author_profile: true
 ---
 New Beginning Articles
 ===
