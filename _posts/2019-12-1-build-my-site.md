@@ -6,6 +6,7 @@ comments: true
 key: "{{ page.url }}"
 categories: [blog, journal]
 tags: [journal]
+footer: true
 ---
 New Beginning Articles
 ===
